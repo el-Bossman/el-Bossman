@@ -6,7 +6,7 @@
 ## Soy un Desarrollador, Gamer, Cinefilo, y Entuciasta de la Tecnologia!!
 
 - 🔭 Acabo de publicar la version 2 de: [ProyectoBlog][proyecto]!
-- 🌱 Actualmente: estoy desarrollando un sitio web para E-commerce en Django
+- 🌱 Actualmente: estoy desarrollando un sitio web para E-commerce en Django.
 - 📘 Estoy aprendiendo: un poco de React para visualizar mejor las APIs y ver la otra cara de la moneda.
 
 
