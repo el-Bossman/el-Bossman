@@ -1,6 +1,6 @@
 ### Hola, Soy Reymon Delgado - aka [el-Bossman][website] 👋
 
-[![Website](https://img.shields.io/website?label=reymondelgado.tk&style=for-the-badge&url=https%3A%2F%2Freymondelgado.tk)](https://reymondelgado.tk/)
+[![Website](https://img.shields.io/website?label=reymondelgado.tk&style=for-the-badge&url=https%3A%2F%2Freymondelgado.tk)](https://reymondelgado.com/)
 
 
 ## Soy un Desarrollador, Gamer, Cinefilo, y Entuciasta de la Tecnologia!!
