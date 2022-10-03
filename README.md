@@ -46,5 +46,5 @@
 ---
 
 
-[website]: https://reymondelgado.tk/
+[website]: https://reymondelgado.com/
 [proyecto]: https://reymondelgado.pythonanywhere.com/
